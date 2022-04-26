@@ -8,3 +8,6 @@
 csestudent47/csestudent47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+in my profile u get many free courses links and all the coding ninjas assignments and test answers
